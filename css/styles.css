@@ -1,0 +1,21 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    margin: 20px;
+    background-color: #f9f9f9;
+}
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #1F77B4;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.highlight {
+    color: #F4A261;
+    font-weight: bold;
+}
